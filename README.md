@@ -1,4 +1,4 @@
 # hello-world
-Just another respository
-Mam na imię Klaudia i jestem studentką Politechniki Śląskiej.
+Just another respositorium 
 
+Mam na imię Klaudia i jestem studentką Politechniki Śląskiej.
